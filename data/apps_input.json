@@ -1,0 +1,602 @@
+[
+ {
+  "id": 1,
+  "name": "Salesforce",
+  "cat": "CRM & Sales",
+  "hint": "https://developer.salesforce.com/docs"
+ },
+ {
+  "id": 2,
+  "name": "HubSpot",
+  "cat": "CRM & Sales",
+  "hint": "https://developers.hubspot.com/docs/api/overview"
+ },
+ {
+  "id": 3,
+  "name": "Pipedrive",
+  "cat": "CRM & Sales",
+  "hint": "https://developers.pipedrive.com/docs/api/v1"
+ },
+ {
+  "id": 4,
+  "name": "Attio",
+  "cat": "CRM & Sales",
+  "hint": "https://developers.attio.com"
+ },
+ {
+  "id": 5,
+  "name": "Twenty",
+  "cat": "CRM & Sales",
+  "hint": "https://twenty.com/developers"
+ },
+ {
+  "id": 6,
+  "name": "Podio",
+  "cat": "CRM & Sales",
+  "hint": "https://developers.podio.com"
+ },
+ {
+  "id": 7,
+  "name": "Zoho CRM",
+  "cat": "CRM & Sales",
+  "hint": "https://www.zoho.com/crm/developer/docs/api/v6/"
+ },
+ {
+  "id": 8,
+  "name": "Close",
+  "cat": "CRM & Sales",
+  "hint": "https://developer.close.com"
+ },
+ {
+  "id": 9,
+  "name": "Copper",
+  "cat": "CRM & Sales",
+  "hint": "https://developer.copper.com"
+ },
+ {
+  "id": 10,
+  "name": "DealCloud",
+  "cat": "CRM & Sales",
+  "hint": "https://api.docs.dealcloud.com"
+ },
+ {
+  "id": 11,
+  "name": "Zendesk",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developer.zendesk.com/api-reference"
+ },
+ {
+  "id": 12,
+  "name": "Intercom",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developers.intercom.com"
+ },
+ {
+  "id": 13,
+  "name": "Freshdesk",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developers.freshdesk.com/api"
+ },
+ {
+  "id": 14,
+  "name": "Front",
+  "cat": "Support & Helpdesk",
+  "hint": "https://dev.frontapp.com"
+ },
+ {
+  "id": 15,
+  "name": "Pylon",
+  "cat": "Support & Helpdesk",
+  "hint": "https://docs.usepylon.com/pylon-docs/developer/api"
+ },
+ {
+  "id": 16,
+  "name": "LiveAgent",
+  "cat": "Support & Helpdesk",
+  "hint": "https://docs.liveagent.com"
+ },
+ {
+  "id": 17,
+  "name": "Plain",
+  "cat": "Support & Helpdesk",
+  "hint": "https://www.plain.com/docs/api-reference"
+ },
+ {
+  "id": 18,
+  "name": "Help Scout",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developer.helpscout.com"
+ },
+ {
+  "id": 19,
+  "name": "Gorgias",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developers.gorgias.com"
+ },
+ {
+  "id": 20,
+  "name": "Gladly",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developer.gladly.com"
+ },
+ {
+  "id": 21,
+  "name": "Slack",
+  "cat": "Comms & Messaging",
+  "hint": "https://api.slack.com/web"
+ },
+ {
+  "id": 22,
+  "name": "Twilio",
+  "cat": "Comms & Messaging",
+  "hint": "https://www.twilio.com/docs/usage/api"
+ },
+ {
+  "id": 23,
+  "name": "Zoho Cliq",
+  "cat": "Comms & Messaging",
+  "hint": "https://www.zoho.com/cliq/help/restapi/"
+ },
+ {
+  "id": 24,
+  "name": "Lark (Larksuite)",
+  "cat": "Comms & Messaging",
+  "hint": "https://open.larksuite.com/document"
+ },
+ {
+  "id": 25,
+  "name": "Pumble",
+  "cat": "Comms & Messaging",
+  "hint": "https://pumble.com/developers/api"
+ },
+ {
+  "id": 26,
+  "name": "Discord",
+  "cat": "Comms & Messaging",
+  "hint": "https://discord.com/developers/docs"
+ },
+ {
+  "id": 27,
+  "name": "Telegram",
+  "cat": "Comms & Messaging",
+  "hint": "https://core.telegram.org/bots/api"
+ },
+ {
+  "id": 28,
+  "name": "WhatsApp Business",
+  "cat": "Comms & Messaging",
+  "hint": "https://developers.facebook.com/docs/whatsapp"
+ },
+ {
+  "id": 29,
+  "name": "Aircall",
+  "cat": "Comms & Messaging",
+  "hint": "https://developer.aircall.io"
+ },
+ {
+  "id": 30,
+  "name": "Vonage",
+  "cat": "Comms & Messaging",
+  "hint": "https://developer.vonage.com/en/documentation"
+ },
+ {
+  "id": 31,
+  "name": "Google Ads",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developers.google.com/google-ads/api/docs/start"
+ },
+ {
+  "id": 32,
+  "name": "Meta Ads",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developers.facebook.com/docs/marketing-apis"
+ },
+ {
+  "id": 33,
+  "name": "LinkedIn Ads",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://learn.microsoft.com/linkedin/marketing"
+ },
+ {
+  "id": 34,
+  "name": "GoHighLevel",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://highlevel.stoplight.io"
+ },
+ {
+  "id": 35,
+  "name": "Mailchimp",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://mailchimp.com/developer/marketing/"
+ },
+ {
+  "id": 36,
+  "name": "Klaviyo",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developers.klaviyo.com"
+ },
+ {
+  "id": 37,
+  "name": "systeme.io",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developer.systeme.io"
+ },
+ {
+  "id": 38,
+  "name": "Pinterest",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developers.pinterest.com"
+ },
+ {
+  "id": 39,
+  "name": "Threads (Meta)",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developers.facebook.com/docs/threads"
+ },
+ {
+  "id": 40,
+  "name": "SendGrid",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://docs.sendgrid.com/api-reference"
+ },
+ {
+  "id": 41,
+  "name": "Shopify",
+  "cat": "Ecommerce",
+  "hint": "https://shopify.dev/docs/api"
+ },
+ {
+  "id": 42,
+  "name": "WooCommerce",
+  "cat": "Ecommerce",
+  "hint": "https://woocommerce.com/document/woocommerce-rest-api/"
+ },
+ {
+  "id": 43,
+  "name": "BigCommerce",
+  "cat": "Ecommerce",
+  "hint": "https://developer.bigcommerce.com"
+ },
+ {
+  "id": 44,
+  "name": "Salesforce Commerce Cloud",
+  "cat": "Ecommerce",
+  "hint": "https://developer.salesforce.com/docs/commerce"
+ },
+ {
+  "id": 45,
+  "name": "Magento (Adobe Commerce)",
+  "cat": "Ecommerce",
+  "hint": "https://developer.adobe.com/commerce/webapi/"
+ },
+ {
+  "id": 46,
+  "name": "Squarespace",
+  "cat": "Ecommerce",
+  "hint": "https://developers.squarespace.com"
+ },
+ {
+  "id": 47,
+  "name": "Ecwid",
+  "cat": "Ecommerce",
+  "hint": "https://api-docs.ecwid.com"
+ },
+ {
+  "id": 48,
+  "name": "Gumroad",
+  "cat": "Ecommerce",
+  "hint": "https://app.gumroad.com/api"
+ },
+ {
+  "id": 49,
+  "name": "Amazon Selling Partner",
+  "cat": "Ecommerce",
+  "hint": "https://developer-docs.amazon.com/sp-api"
+ },
+ {
+  "id": 50,
+  "name": "fanbasis",
+  "cat": "Ecommerce",
+  "hint": "https://fanbasis.com"
+ },
+ {
+  "id": 51,
+  "name": "DataForSEO",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://docs.dataforseo.com"
+ },
+ {
+  "id": 52,
+  "name": "SE Ranking",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://seranking.com/api.html"
+ },
+ {
+  "id": 53,
+  "name": "Ahrefs",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://ahrefs.com/api"
+ },
+ {
+  "id": 54,
+  "name": "MrScraper",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://docs.mrscraper.com"
+ },
+ {
+  "id": 55,
+  "name": "Apify",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://docs.apify.com/api/v2"
+ },
+ {
+  "id": 56,
+  "name": "Firecrawl",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://docs.firecrawl.dev"
+ },
+ {
+  "id": 57,
+  "name": "Bright Data",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://docs.brightdata.com"
+ },
+ {
+  "id": 58,
+  "name": "Sherlock",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://github.com/sherlock-project/sherlock"
+ },
+ {
+  "id": 59,
+  "name": "Waterfall.io",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://waterfall.io"
+ },
+ {
+  "id": 60,
+  "name": "Clay",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://www.clay.com/university/guide/clay-api"
+ },
+ {
+  "id": 61,
+  "name": "GitHub",
+  "cat": "Developer/Infra",
+  "hint": "https://docs.github.com/rest"
+ },
+ {
+  "id": 62,
+  "name": "Vercel",
+  "cat": "Developer/Infra",
+  "hint": "https://vercel.com/docs/rest-api"
+ },
+ {
+  "id": 63,
+  "name": "Netlify",
+  "cat": "Developer/Infra",
+  "hint": "https://docs.netlify.com/api/get-started/"
+ },
+ {
+  "id": 64,
+  "name": "Cloudflare",
+  "cat": "Developer/Infra",
+  "hint": "https://developers.cloudflare.com/api"
+ },
+ {
+  "id": 65,
+  "name": "Supabase",
+  "cat": "Developer/Infra",
+  "hint": "https://supabase.com/docs/reference/api"
+ },
+ {
+  "id": 66,
+  "name": "Neo4j",
+  "cat": "Developer/Infra",
+  "hint": "https://neo4j.com/docs/"
+ },
+ {
+  "id": 67,
+  "name": "Snowflake",
+  "cat": "Developer/Infra",
+  "hint": "https://docs.snowflake.com/en/developer-guide/sql-api/index"
+ },
+ {
+  "id": 68,
+  "name": "MongoDB Atlas",
+  "cat": "Developer/Infra",
+  "hint": "https://www.mongodb.com/docs/atlas/api/"
+ },
+ {
+  "id": 69,
+  "name": "Datadog",
+  "cat": "Developer/Infra",
+  "hint": "https://docs.datadoghq.com/api/latest/"
+ },
+ {
+  "id": 70,
+  "name": "Sentry",
+  "cat": "Developer/Infra",
+  "hint": "https://docs.sentry.io/api/"
+ },
+ {
+  "id": 71,
+  "name": "Notion",
+  "cat": "Productivity/PM",
+  "hint": "https://developers.notion.com"
+ },
+ {
+  "id": 72,
+  "name": "Airtable",
+  "cat": "Productivity/PM",
+  "hint": "https://airtable.com/developers/web/api/introduction"
+ },
+ {
+  "id": 73,
+  "name": "Linear",
+  "cat": "Productivity/PM",
+  "hint": "https://developers.linear.app"
+ },
+ {
+  "id": 74,
+  "name": "Jira",
+  "cat": "Productivity/PM",
+  "hint": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/"
+ },
+ {
+  "id": 75,
+  "name": "Asana",
+  "cat": "Productivity/PM",
+  "hint": "https://developers.asana.com"
+ },
+ {
+  "id": 76,
+  "name": "Monday.com",
+  "cat": "Productivity/PM",
+  "hint": "https://developer.monday.com/api-reference"
+ },
+ {
+  "id": 77,
+  "name": "ClickUp",
+  "cat": "Productivity/PM",
+  "hint": "https://clickup.com/api"
+ },
+ {
+  "id": 78,
+  "name": "Coda",
+  "cat": "Productivity/PM",
+  "hint": "https://coda.io/developers/apis/v1"
+ },
+ {
+  "id": 79,
+  "name": "Smartsheet",
+  "cat": "Productivity/PM",
+  "hint": "https://smartsheet.redoc.ly"
+ },
+ {
+  "id": 80,
+  "name": "Harvest",
+  "cat": "Productivity/PM",
+  "hint": "https://help.getharvest.com/api-v2/"
+ },
+ {
+  "id": 81,
+  "name": "Stripe",
+  "cat": "Finance/Fintech",
+  "hint": "https://stripe.com/docs/api"
+ },
+ {
+  "id": 82,
+  "name": "Plaid",
+  "cat": "Finance/Fintech",
+  "hint": "https://plaid.com/docs/"
+ },
+ {
+  "id": 83,
+  "name": "Binance",
+  "cat": "Finance/Fintech",
+  "hint": "https://binance-docs.github.io/apidocs/"
+ },
+ {
+  "id": 84,
+  "name": "Paygent Connect",
+  "cat": "Finance/Fintech",
+  "hint": "https://www.paygent.co.jp"
+ },
+ {
+  "id": 85,
+  "name": "iPayX",
+  "cat": "Finance/Fintech",
+  "hint": "https://www.ipayx.ai"
+ },
+ {
+  "id": 86,
+  "name": "QuickBooks",
+  "cat": "Finance/Fintech",
+  "hint": "https://developer.intuit.com"
+ },
+ {
+  "id": 87,
+  "name": "Xero",
+  "cat": "Finance/Fintech",
+  "hint": "https://developer.xero.com"
+ },
+ {
+  "id": 88,
+  "name": "Brex",
+  "cat": "Finance/Fintech",
+  "hint": "https://developer.brex.com"
+ },
+ {
+  "id": 89,
+  "name": "Ramp",
+  "cat": "Finance/Fintech",
+  "hint": "https://docs.ramp.com"
+ },
+ {
+  "id": 90,
+  "name": "PitchBook",
+  "cat": "Finance/Fintech",
+  "hint": "https://pitchbook.com"
+ },
+ {
+  "id": 91,
+  "name": "NotebookLM",
+  "cat": "AI/Research/Media",
+  "hint": "https://cloud.google.com/gemini"
+ },
+ {
+  "id": 92,
+  "name": "Otter AI",
+  "cat": "AI/Research/Media",
+  "hint": "https://help.otter.ai"
+ },
+ {
+  "id": 93,
+  "name": "Fathom",
+  "cat": "AI/Research/Media",
+  "hint": "https://fathom.video"
+ },
+ {
+  "id": 94,
+  "name": "Consensus",
+  "cat": "AI/Research/Media",
+  "hint": "https://consensus.app"
+ },
+ {
+  "id": 95,
+  "name": "Reducto",
+  "cat": "AI/Research/Media",
+  "hint": "https://docs.reducto.ai"
+ },
+ {
+  "id": 96,
+  "name": "Devin",
+  "cat": "AI/Research/Media",
+  "hint": "https://docs.devin.ai"
+ },
+ {
+  "id": 97,
+  "name": "higgsfield",
+  "cat": "AI/Research/Media",
+  "hint": "https://higgsfield.ai"
+ },
+ {
+  "id": 98,
+  "name": "Mermaid CLI",
+  "cat": "AI/Research/Media",
+  "hint": "https://github.com/mermaid-js/mermaid-cli"
+ },
+ {
+  "id": 99,
+  "name": "YouTube Transcript",
+  "cat": "AI/Research/Media",
+  "hint": "https://www.transcriptapi.com"
+ },
+ {
+  "id": 100,
+  "name": "Grain",
+  "cat": "AI/Research/Media",
+  "hint": "https://grain.com"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "name": "Salesforce",
+  "cat": "CRM & Sales",
+  "hint": "https://developer.salesforce.com/docs"
+ },
+ {
+  "id": 2,
+  "name": "Zendesk",
+  "cat": "Support & Helpdesk",
+  "hint": "https://developer.zendesk.com/api-reference"
+ },
+ {
+  "id": 3,
+  "name": "Slack",
+  "cat": "Comms & Messaging",
+  "hint": "https://api.slack.com/web"
+ },
+ {
+  "id": 4,
+  "name": "Google Ads",
+  "cat": "Marketing/Ads/Email/Social",
+  "hint": "https://developers.google.com/google-ads/api/docs/start"
+ },
+ {
+  "id": 5,
+  "name": "Shopify",
+  "cat": "Ecommerce",
+  "hint": "https://shopify.dev/docs/api"
+ },
+ {
+  "id": 6,
+  "name": "DataForSEO",
+  "cat": "Data/SEO/Scraping",
+  "hint": "https://docs.dataforseo.com"
+ },
+ {
+  "id": 7,
+  "name": "GitHub",
+  "cat": "Developer/Infra",
+  "hint": "https://docs.github.com/rest"
+ },
+ {
+  "id": 8,
+  "name": "Notion",
+  "cat": "Productivity/PM",
+  "hint": "https://developers.notion.com"
+ },
+ {
+  "id": 9,
+  "name": "Stripe",
+  "cat": "Finance/Fintech",
+  "hint": "https://stripe.com/docs/api"
+ },
+ {
+  "id": 10,
+  "name": "NotebookLM",
+  "cat": "AI/Research/Media",
+  "hint": "https://cloud.google.com/gemini"
+ }
+]

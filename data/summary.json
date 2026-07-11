@@ -1,0 +1,21 @@
+{
+ "total": 100,
+ "auth": {
+  "OAuth2 (primary)": 13,
+  "OAuth2 + key/token": 40,
+  "API key": 31,
+  "Token/PAT": 10,
+  "Basic": 1,
+  "None/Unknown": 5
+ },
+ "access": {
+  "self-serve": 80,
+  "gated": 20
+ },
+ "official_mcp": 26,
+ "confidence": {
+  "HIGH": 52,
+  "MED": 37,
+  "LOW": 11
+ }
+}

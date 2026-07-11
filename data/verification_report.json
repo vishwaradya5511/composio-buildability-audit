@@ -1,0 +1,105 @@
+[
+ {
+  "app": "Attio",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Front",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Slack",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Pinterest",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Amazon Selling Partner",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Apify",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Supabase",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Jira",
+  "misses": [],
+  "verdict": "corrected"
+ },
+ {
+  "app": "QuickBooks",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Grain",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "LinkedIn Ads",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "ClickUp",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Binance",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Intercom",
+  "misses": [],
+  "verdict": "corrected"
+ },
+ {
+  "app": "Binance",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Freshdesk",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Stripe",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "ClickUp",
+  "misses": [],
+  "verdict": "clean"
+ },
+ {
+  "app": "Plain",
+  "misses": [
+   "auth",
+   "mcp"
+  ],
+  "verdict": "corrected"
+ },
+ {
+  "app": "Squarespace",
+  "misses": [],
+  "verdict": "clean"
+ }
+]
